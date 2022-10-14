@@ -1,0 +1,710 @@
+视角:
+  '':
+    背后视角:
+      value: from behind
+    低位视角:
+      value: from below
+    高位视角:
+      value: from above
+    侧边视角:
+      value: from side
+    单人焦点:
+      value: solo focus
+    背后焦点:
+      value: back focus
+    屁股焦点:
+      value: ass focus
+    臀部焦点:
+      value: hip focus
+    足部焦点:
+      value: foot focus
+    面朝远方:
+      value: facing away
+    侧脸:
+      value: profil
+    正面面对:
+      value: straight-on
+    第一人称:
+      value: first-person view
+    主观视角:
+      value: pov
+    手主观视角:
+      value: pov hands
+    胯部主观视角:
+      value: pov crotch
+构图:
+  '':
+    全身:
+      value: full body
+    人物超出框:
+      value: out of frame
+    头超出框:
+      value: head out of frame
+    脚超出框:
+      value: feet out of frame
+    上半身:
+      value: upper body
+    下半身:
+      value: lower body
+图片类型:
+  '':
+    三视图:
+      value: three sided view
+    多视图:
+      value: multiple views
+    概念图:
+      value: concept art
+    参考图:
+      value: reference sheet
+    设定图:
+      value: official art
+背景:
+  '':
+    多人背景:
+      value: blurry background
+动作:
+  '':
+    站立:
+      value: standing
+    弯腰:
+      value: bent over
+    弓背:
+      value: arched back
+    拉伸:
+      value: stretching
+    躺:
+      value: lying on back
+    趴:
+      value: on stomach
+    侧躺:
+      value: on side
+    蹲:
+      value: squatting
+    坐:
+      value: sitting
+    鸭子坐:
+      value: wariza
+    跨坐:
+      value: straddling
+    四肢着地:
+      value: all fours
+    翘臀:
+      value: top-down bottom-up
+    jack-o:
+      value: jack-o' challenge
+    双腿过头:
+      value: legs over head
+    胎儿姿势:
+      value: fetal position
+    自拍:
+      value: selfie
+    透过腿看:
+      value: looking through legs
+  头:
+    看观众:
+      value: looking at viewer
+    面对观众:
+      value: facing viewer
+    看别人:
+      value: looking at another
+    看侧边:
+      value: looking to the side
+    不看镜头:
+      value: looking away
+    回头看:
+      value: looking back
+    往下看:
+      value: looking down
+    往上看:
+      value: looking up
+    遥望:
+      value: looking afar
+    盯着:
+      value: staring
+    对视:
+      value: eye contact
+    斜视:
+      value: sideways glance
+    脸贴脸:
+      value: cheek-to-cheek
+  手:
+    伸手:
+      value: outstretched arms
+    伸单手:
+      value: outstretched arm
+    张开双臂:
+      value: spread arms
+    殭尸姿势:
+      value: zombie pose
+    单抬臂:
+      value: arm up
+    双抬臂:
+      value: arms up
+    展示腋下:
+      value: presenting armpit
+    展示内裤:
+      value: presenting panties
+    手臂放头后:
+      value: arms behind head
+    手臂放后面:
+      value: arms behind back
+    叉腰:
+      value: hands on hips
+    手放嘴上:
+      value: hand to own mouth
+    手放脸上:
+      value: hand on own face
+    抱腿:
+      value: hugging own legs
+    手臂支撑:
+      value: arm support
+    拨头发:
+      value: hand in own hair
+    双手拨头发:
+      value: hands in hair
+    扎头发:
+      value: tying hair
+    牵手:
+      value: holding hands
+    十指紧扣:
+      value: interlocked fingers
+    双手相扣:
+      value: own hands clasped
+    双手合十:
+      value: own hands together
+    紧握双手:
+      value: clenched hands
+    张开双手:
+      value: open hands
+    张开手指:
+      value: spread fingers
+    摸头:
+      value: headpat
+    手冲:
+      value: handjob gesture
+  脚:
+    双腿交叉:
+      value: crossed legs
+    夹腿:
+      value: between legs
+    手夹腿间:
+      value: hand between legs
+    尾巴夹腿间:
+      value: tail between legs
+    抬腿:
+      value: leg up
+    抬双腿:
+      value: legs up
+    开腿:
+      value: legs apart
+    膝盖向上:
+      value: knees up
+    并膝:
+      value: knees together feet apart
+    抱膝:
+      value: knees to chest
+    内八:
+      value: pigeon-toed
+    M字腿:
+      value: m legs
+    脚绷直:
+      value: plantar flexion
+    展示脚部:
+      value: presenting foot
+    伸展脚趾:
+      value: spread toes
+    脚悬空:
+      value: feet up
+头发:
+  细节:
+    头发不遮挡眼睛:
+      value: eyes visible through hair
+    头发遮住一只眼睛:
+      value: hair over one eye
+脸:
+  表情:
+    脸红:
+      value: blush
+    尴尬:
+      value: embarrassed
+    害羞:
+      value: shy
+    恍惚:
+      value: torogao
+    喝醉:
+      value: drunk
+    戏弄:
+      value: naughty face
+    皱眉:
+      value: wince
+    皱眉_2:
+      value: frown
+    阴暗:
+      value: shaded face
+    厌恶:
+      value: disgust
+    恼火:
+      value: annoyed
+    噘嘴:
+      value: pout
+    紧张:
+      value: nervous
+    困惑:
+      value: confused
+    害怕:
+      value: scared
+    疼痛:
+      value: pain
+    尖叫:
+      value: screaming
+    惊讶:
+      value: surprised
+    脸色苍白:
+      value: turn pale
+    悲伤:
+      value: sad
+    忧郁:
+      value: gloom
+    叹息:
+      value: sigh
+    无表情:
+      value: expressionless
+    困:
+      value: sleepy
+    认真:
+      value: serious
+    微笑:
+      value: smile
+    诱人的微笑:
+      value: seductive smile
+    浅笑:
+      value: light smile
+    露齿笑:
+      value: grin
+    大笑:
+      value: laugh
+    坏笑:
+      value: evil smileevil grin
+    傻笑:
+      value: smirk
+    得意:
+      value: smug doyagao
+    幸灾乐祸:
+      value: troll face
+    呼吸:
+      value: breath
+    哭:
+      value: crying
+    睁眼哭:
+      value: crying with eyes open
+  嘴:
+    流口水:
+      value: drooling
+    波浪嘴:
+      value: wavy mouth
+    露齿:
+      value: teeth
+    露上齿:
+      value: upper teeth
+    鲨鱼齿:
+      value: sharp teeth
+    咬牙:
+      value: clenched teeth
+    虎牙:
+      value: fang
+    嘴虎牙:
+      value: skin fang
+    吐舌:
+      value: tongue
+    吐舌_2:
+      value: tongue out
+    口红:
+      value: lipstick
+    开嘴:
+      value: parted lips
+    开口:
+      value: open mouth
+    闭嘴:
+      value: closed mouth
+    舔嘴唇:
+      value: licking lips
+
+  耳朵:
+    尖耳朵:
+      value: pointy ears
+    猫耳:
+      value: cat ears
+    犬耳:
+      value: dog ears
+  眉毛:
+    八字眉:
+      value: furrowed brow raised eyebrows
+    V字眉:
+      value: v shaped eyebrows
+    挑眉:
+      value: raised eyebrow
+    短眉:
+      value: short eyebrows
+    浓眉:
+      value: thick eyebrows
+  其它:
+    角:
+      value: horns
+  咳咳:
+    高潮:
+      value: orgasm
+    阿嘿颜:
+      value: ahegao
+    失神:
+      value: fucked silly
+
+眼睛:
+  '':
+    吊眼角:
+      value: tsurime
+    下垂眼:
+      value: tareme
+    三白眼:
+      value: sanpaku
+    不对称眼:
+      value: uneven eyes
+    发光眼睛:
+      value: glowing eyes
+    圈圈眼:
+      value: ringed eyes
+    收缩的瞳孔:
+      value: constricted pupils
+    猫瞳:
+      value: slit pupils
+    水平瞳孔:
+      value: horizontal pupils
+    爱心眼:
+      value: heart-shaped pupils
+    符号眼:
+      value: symbol-shaped pupils
+    异色瞳:
+      value: heterochromia
+    没有瞳孔:
+      value: no pupils
+    发亮瞳孔:
+      value: bright pupils
+  动作:
+    闭眼:
+      value: closed eyes
+    闭单眼:
+      value: one eye closed
+    半开眼:
+      value: half-closed eyes
+    瞇眼:
+      value: squinting
+    眼睛向上看:
+      value: upturned eyes
+    失神眼:
+      value: empty eyes
+    翻白眼:
+      value: rolling eyes
+    嫌弃的眼神:
+      value: jitome
+    疯狂的眼神:
+      value: crazy eyes
+    斗鸡眼:
+      value: cross-eyed
+    睁大眼睛:
+      value: wide-eyed
+  细节:
+    头发不遮挡眼睛:
+      value: eyes visible through hair
+    头发遮住一只眼睛:
+      value: hair over one eye
+    绷带遮住一只眼睛:
+      value: bandage over one eye
+    眼影:
+      value: eyeshadow
+    眼线:
+      value: eyeliner
+
+衣服:
+  '':
+    运动服:
+      value: sportswear
+    排球服:
+      value: volleyball uniform
+    旗袍:
+      value: china dress
+    水手服:
+      value: serafuku
+    校服:
+      value: school uniform
+    和服:
+      value: kimono
+    高领衬衫:
+      value: collared shirt
+    紧身衣:
+      value: leotard
+    无肩带紧身衣:
+      value: strapless leotard
+    高叉紧身衣:
+      value: highleg leotard
+    丁字紧身衣:
+      value: thong leotard
+    衣服下紧身衣:
+      value: leotard under clothes
+    贴身衣物:
+      value: taut clothes
+    贴身衬衫:
+      value: taut shirt
+    薄纱连衣裙:
+      value: sheer tulle dress
+    雪纺连衣裙:
+      value: chiffon dress
+    背心:
+      value: tank top
+    连衣裙:
+      value: dress
+    露背连衣裙:
+      value: backless dress
+    绕颈连衣裙:
+      value: halter dress
+    毛衣连衣裙:
+      value: sweater dress
+    露背装:
+      value: backless outfit
+    睡袍:
+      value: nightgown
+    大衣:
+      value: coat
+    毛衣:
+      value: sweater
+    高领毛衣:
+      value: turtleneck sweater
+    条纹毛衣:
+      value: ribbed sweater
+    露肩毛衣:
+      value: off-shoulder sweater
+    开胸毛衣:
+      value: open-chest sweater
+    束胸:
+      value: corset
+    露脐装:
+      value: crop top
+    赛车服:
+      value: racing suit
+    护士服:
+      value: nurse
+    乳胶紧身衣:
+      value: latex
+    白大褂:
+      value: lab coat
+  泳装:
+    泳装:
+      value: swimsuit
+    连体泳衣:
+      value: one-piece swimsuit
+    学校泳衣:
+      value: school swimsuit
+    竞赛泳衣:
+      value: competition swimsuit
+    高叉泳衣:
+      value: highleg swimsuit
+    比基尼:
+      value: bikini
+    系绳比基尼:
+      value: string bikini
+    解开比基尼:
+      value: untied bikini
+    前系带比基尼:
+      value: front-tie bikini
+    迷你比基尼:
+      value: micro bikini
+  细节:
+    肩膀镂空:
+      value: shoulder cutout
+    臀部镂空:
+      value: hip vent
+    后背镂空:
+      value: back cutout
+    下胸镂空:
+      value: underboob cutout
+    心型镂空:
+      value: heart cutout
+裙/裤:
+  裙:
+    裙子:
+      value: skirt
+    连衣裙:
+      value: dress
+    露背连衣裙:
+      value: backless dress
+    绕颈连衣裙:
+      value: halter dress
+    毛衣连衣裙:
+      value: sweater dress
+    迷你裙:
+      value: mini skirt
+    百褶裙:
+      value: pleated skirt
+    铅笔裙:
+      value: pencil skirt
+    格子裙:
+      value: plaid skirt
+    夏日长裙:
+      value: summer long skirt
+    便利店工作服:
+      value: convenience store uniforms
+  裤:
+    裤子:
+      value: pants
+    紧身裤:
+      value: leggings
+    短裤:
+      value: shorts
+    牛仔短裤:
+      value: denim shorts
+    瑜伽裤:
+      value: yoga pants
+鞋:
+  '':
+    高跟鞋:
+      value: high heels
+    运动鞋:
+      value: sneakers
+    靴子:
+      value: boots
+    过膝长靴:
+      value: thigh boots
+    膝下靴:
+      value: knee boots
+    短靴:
+      value: ankle boots
+    系带靴:
+      value: lace-up boots
+    乐福鞋:
+      value: loafers
+    没有鞋子:
+      value: no shoes
+袜子:
+  '':
+    袜子:
+      value: socks
+    丝袜:
+      value: stockings
+    裤袜:
+      value: pantyhose
+    网袜:
+      value: fishnet pantyhose
+    绑腿连裤袜:
+      value: thighband pantyhose
+    过膝袜:
+      value: thighhighs
+    膝下袜:
+      value: kneehighs
+    吊袜带:
+      value: garter belt
+    露趾袜:
+      value: toeless legwear
+    横条袜:
+      value: striped socks
+    泡泡袜:
+      value: loose socks
+    连身丝袜:
+      value: bodystocking
+配饰:
+  '':
+    吊带:
+      value: suspenders
+    围巾:
+      value: scarf
+    围裙:
+      value: apron
+    腰带:
+      value: belt
+    丝带:
+      value: ribbon
+    发带:
+      value: hair ribbon
+    颈带:
+      value: neck ribbon
+    帽带:
+      value: hat ribbon
+    腿环:
+      value: thigh strap
+    面纱:
+      value: veil mouth veil
+    头纱:
+      value: bridal veil
+    光环:
+      value: halo
+    翅膀:
+      value: wings
+    铃铛:
+      value: bell
+    牛铃:
+      value: cowbell
+    流苏:
+      value: tassel
+    面罩:
+      value: mask
+  发饰:
+    发饰:
+      value: hair ornament
+    发环:
+      value: hair rings
+    发夹:
+      value: hairclip
+    头花:
+      value: hair flower
+    蝴蝶结:
+      value: hair bow
+    发簪:
+      value: hair stick
+    女仆头饰:
+      value: maid headdress
+  手套:
+    手套:
+      value: gloves
+    袖套:
+      value: elbow gloves
+    猫猫手套:
+      value: paw gloves
+    无指手套:
+      value: fingerless gloves
+    婚礼手套:
+      value: bridal gauntlets
+  袖子:
+    袖子:
+      value: sleeves
+    分离式袖子:
+      value: detached sleeves
+    宽袖:
+      value: wide sleeves
+    蕾丝袖子:
+      value: ribbon-trimmed sleeves
+    无袖:
+      value: sleeveless
+    蒙袖?:
+      value: wrist cuffs
+  尾巴:
+    尾巴:
+      value: tail
+    兔尾:
+      value: rabbit tail
+    猫尾:
+      value: cat tail
+胸:
+  '':
+    胸肌:
+      value: chest
+    胸部:
+      value: breasts
+    贫乳:
+      value: flat chest
+    小胸部:
+      value: small breasts
+    中等胸部:
+      value: medium breasts
+    大胸部:
+      value: large breasts
+    巨乳:
+      value: huge breasts
+    超巨乳:
+      value: gigantic breasts
