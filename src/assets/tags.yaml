@@ -1,5 +1,152 @@
-视角:
+画面:
   '':
+    提取高质量数据:
+      value: masterpiece
+  风格:
+    照片:
+      value: photo
+    水彩:
+      value: watercolor
+    油画:
+      value: oil painting
+    彩色铅笔:
+      value: colored pencil
+    铅笔画:
+      value: graphite
+    马克笔:
+      value: marker
+    签字笔:
+      value: nib pen
+    圆珠笔:
+      value: ballpoint pen
+    丙烯颜料:
+      value: acrylic paint
+    水粉:
+      value: gouache
+    湿画法水粉:
+      value: wet gouache
+    CG:
+      value: game cg
+    漫画:
+      value: comic
+    素描:
+      value: sketch
+    像素:
+      value: pixel art
+    Q版:
+      value: chibi
+    复古风格:
+      value: retro artstyle
+    杂志:
+      value: magazine
+    同人志封面:
+      value: doujinshi cover
+    赛博朋克:
+      value: cyberpunk
+    写实:
+      value: photorealistic
+  效果:
+    景深:
+      value: depth of field
+    电影光效:
+      value: cinem
+    轮廓加深:
+      value: contour deepening
+    纯色块:
+      value: flat color
+    单色:
+      value: monochrome
+    灰度:
+      value: greyscale
+    高对比度:
+      value: high contrast
+    部分着色:
+      value: partially colored
+    色差色失焦:
+      value: chromatic aberration
+    背光:
+      value: backlighting
+    轮廓线:
+      value: outline
+    剪影:
+      value: silhouette
+    鱼眼:
+      value: fisheye
+    颠倒:
+      value: upside-down
+    动态模糊:
+      value: motion blur
+    镜头光晕:
+      value: lens flare
+背景:
+  '':
+    模糊背景:
+      value: blurry background
+    简单背景:
+      value: simple background
+    渐变背景:
+      value: gradient background
+    阳光背景:
+      value: sunburst background
+    多人背景:
+      value: blurry background
+    缩放投影图层:
+      value: zoom layer
+    太空:
+      value: space
+    星轨:
+      value: colorful startrails
+    大自然:
+      value: nature
+    田园:
+      value: field
+    森林:
+      value: forest
+    山脉:
+      value: mountain
+    海洋:
+      value: ocean
+    海边:
+      value: beach
+    湖泊:
+      value: lake
+    河流:
+      value: river
+    星空:
+      value: starry sky
+    櫻花:
+      value: Cherry blossoms
+    流星:
+      value: shooting star
+    室外:
+      value: outdoors
+    室内:
+     value: indoors
+    塌塌米:
+      value: tatami
+  建筑:
+    城市:
+      value: cityscape
+    建物:
+      value: building architecture
+    高楼:
+      value: skyscraper
+    废墟:
+      value: ruins
+    罗马建筑:
+      value: greco-roman architecture
+    哥特式建筑:
+      value: gothic architecture
+    东亚建物:
+      value: east asian architecture
+    鸟居:
+      value: torii
+    温泉:
+      value: onsen
+    教堂:
+      value: church
+构图:
+  视角:
     背后视角:
       value: from behind
     低位视角:
@@ -32,8 +179,18 @@
       value: pov hands
     胯部主观视角:
       value: pov crotch
-构图:
-  '':
+  角度:
+    斜角角度:
+      value: dutch angle
+    戏剧性角度:
+      value: dramatic angle
+    动态镜头:
+      value: dynamic angle
+    远景:
+      value: wide shot
+    透视:
+      value: perspective
+  人物:
     全身:
       value: full body
     人物超出框:
@@ -58,10 +215,26 @@
       value: reference sheet
     设定图:
       value: official art
-背景:
+角色:
   '':
-    多人背景:
-      value: blurry background
+    萝莉:
+      value: loli
+    娇小的:
+      value: petite
+    熟女:
+      value: mature female
+    少女:
+      value: young girl
+    人鱼:
+      value: Mermaid
+    女巫:
+      value: which
+    机娘:
+      value: mecha girl
+    女仆:
+      value: maid
+    修女:
+      value: nun
 动作:
   '':
     站立:
@@ -82,12 +255,18 @@
       value: squatting
     坐:
       value: sitting
+    跪:
+      value: kneel
+    睡:
+      value: sleeping
     鸭子坐:
       value: wariza
     跨坐:
       value: straddling
     四肢着地:
       value: all fours
+    狗趴式:
+      value: doggystyle
     翘臀:
       value: top-down bottom-up
     jack-o:
@@ -100,6 +279,10 @@
       value: selfie
     透过腿看:
       value: looking through legs
+    二郎腿:
+      value: crossed legs
+    一字马:
+      value: standing split
   头:
     看观众:
       value: looking at viewer
@@ -182,6 +365,12 @@
       value: headpat
     手冲:
       value: handjob gesture
+    托胸:
+      value: breast hold
+    双V手势:
+      value: double peace hand
+    题裙:
+      value: Skirt lift
   脚:
     双腿交叉:
       value: crossed legs
@@ -216,11 +405,125 @@
     脚悬空:
       value: feet up
 头发:
+  '':
+    呆毛:
+      value: ahoge
+    卷发:
+      value: curly hair
+    公主卷:
+      value: drill hair
+    丸子头:
+      value: hair bun
+    双丸子头:
+      value: double bun
+    甜甜圈丸子头:
+      value: doughnut hair bun
+    马尾:
+      value: ponytail
+    短马尾:
+      value: short ponytail
+    侧马尾:
+      value: side ponytail
+    双马尾:
+      value: twintails
+    低双马尾:
+      value: low twintails
+    短双马尾:
+      value: short twintails
+    高马尾:
+      value: high ponytail
+    低马尾:
+      value: low ponytail
+    低马尾_2:
+      value: low-tied long hair
+    前马尾:
+      value: front ponytail
+    乱糟糟:
+      value: messy hair
+    公主头:
+      value: hime cut
+    辫子:
+      value: braid
+    双辫:
+      value: twin braids
+    低双辫:
+      value: low twin braids
+    波浪发:
+      value: wavy hair
+    短发:
+      value: short hair
+    中长发:
+      value: medium hair
+    长发:
+      value: long hair
+    超长发:
+      value: very long hair
+    蘑菇头:
+      value: bowl cut
+    妹妹头:
+      value: bob cut
+    翘发:
+      value: flipped hair
+    编织马尾辫:
+      value: braided ponytail
+    王冠编发:
+      value: crown braid
+    法式编发:
+      value: french braid
+    脏辫:
+      value: dreadlocks
+    刘海辫:
+      value: braided bangs
+    蝴蝶结发:
+      value: bow-shaped hair
+  刘海:
+    刘海:
+      value: bangs
+    齐刘海:
+      value: blunt bangs
+    不对称浏海:
+      value: asymmetrical bangs
+    中分刘海:
+      value: parted bangs
+    斜刘海:
+      value: swept bangs
+    M:
+      value: hair intakes
+  侧发:
+    耳前发:
+      value: sidelocks
+    单耳前发:
+      value: single sidelock
+    侧发后梳:
+      value: half updo
+  发色:
+    金发:
+      value: blonde hair
+    多色头发:
+      value: multicolored hair
+    两色头发:
+      value: two-tone hair
+    分色头发:
+      value: split-color hair
+    渐变头发:
+      value: gradient hair
+    条纹头发:
+      value: streaked hair
+    尖端挑染:
+      value: colored tips
+    彩色内毛:
+      value: colored inner hair
   细节:
     头发不遮挡眼睛:
       value: eyes visible through hair
     头发遮住一只眼睛:
       value: hair over one eye
+    头发后梳:
+      value: hair pulled back
+    散发:
+      value: hair spread out
+    头发飘起:
+      value: floating hair
 脸:
   表情:
     脸红:
@@ -297,6 +600,8 @@
       value: crying
     睁眼哭:
       value: crying with eyes open
+    呼吸急促:
+      value: heavy breathing
   嘴:
     流口水:
       value: drooling
@@ -328,7 +633,6 @@
       value: closed mouth
     舔嘴唇:
       value: licking lips
-
   耳朵:
     尖耳朵:
       value: pointy ears
@@ -336,6 +640,12 @@
       value: cat ears
     犬耳:
       value: dog ears
+    狐耳:
+      value: fox ears
+    兔耳:
+      value: bunny ears
+    鼠耳:
+      value: mouse ears
   眉毛:
     八字眉:
       value: furrowed brow raised eyebrows
@@ -388,6 +698,8 @@
       value: no pupils
     发亮瞳孔:
       value: bright pupils
+    细腻眼睛:
+      value: beautiful detailed eyes
   动作:
     闭眼:
       value: closed eyes
@@ -495,6 +807,28 @@
       value: latex
     白大褂:
       value: lab coat
+    西装:
+      value: business suit
+    黑西服:
+      value: black suit
+    浴衣:
+      value: yukata
+    圣诞装:
+      value: santa
+    卫衣:
+      value: hoodie
+    洛丽塔:
+      value: gothic lolita
+    兔女郎:
+      value: bunny girl
+    魔法少女:
+      value: mahou shoujo
+    女仆装:
+      value: Maid dress
+    啦啦隊:
+      value: cheerleading
+    黑丝连体衣:
+      value: conjoined black silk
   泳装:
     泳装:
       value: swimsuit
@@ -551,6 +885,8 @@
       value: summer long skirt
     便利店工作服:
       value: convenience store uniforms
+    包臀裙:
+      value: sheath dress
   裤:
     裤子:
       value: pants
@@ -562,6 +898,10 @@
       value: denim shorts
     瑜伽裤:
       value: yoga pants
+    丁字裤:
+      value: thong
+    内裤:
+      value: underpants
 鞋:
   '':
     高跟鞋:
@@ -580,8 +920,14 @@
       value: lace-up boots
     乐福鞋:
       value: loafers
-    没有鞋子:
+    学生鞋:
+      value: uwabaki
+    拖鞋:
+      value: slippers
+    光脚:
       value: no shoes
+    光脚_2:
+      value: barefoot
 袜子:
   '':
     袜子:
@@ -608,6 +954,8 @@
       value: loose socks
     连身丝袜:
       value: bodystocking
+    破洞袜:
+      value: torn thighhighs
 配饰:
   '':
     吊带:
@@ -644,6 +992,24 @@
       value: tassel
     面罩:
       value: mask
+    眼镜:
+      value: glasses
+    墨镜:
+      value: sunglasses
+    眼罩:
+      value: blindfold
+    独眼眼罩:
+      value: eyepatch
+    耳环:
+      value: earrings
+    项圈:
+      value: collar
+    水手领:
+      value: sailor collar
+    项链:
+      value: necklace
+    领结:
+      value: bowtie
   发饰:
     发饰:
       value: hair ornament
@@ -659,6 +1025,16 @@
       value: hair stick
     女仆头饰:
       value: maid headdress
+    兜帽:
+      value: hood
+    护士帽:
+      value: nurse cap
+    皇冠:
+      value: crown
+    三重冠:
+      value: tiara
+    贝雷帽:
+      value: beret
   手套:
     手套:
       value: gloves
@@ -670,6 +1046,8 @@
       value: fingerless gloves
     婚礼手套:
       value: bridal gauntlets
+    长手套:
+      value: elbow gloves
   袖子:
     袖子:
       value: sleeves

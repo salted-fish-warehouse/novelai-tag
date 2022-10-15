@@ -1,10 +1,16 @@
 body {
-  margin: 0 5px
+  margin: 0
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 ::-webkit-scrollbar {
   width: 7px;
-  height: 7px
+  height: 0px
 }
 
 ::-webkit-scrollbar-track {
@@ -14,9 +20,9 @@ body {
 
 ::-webkit-scrollbar-thumb {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
-  background-color: #999;
+  background-color: #aaa;
 }
 
 ::-webkit-scrollbar-thumb:active {
-  background-color: #aaa;
+  background-color: #ccc;
 }
