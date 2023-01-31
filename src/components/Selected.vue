@@ -33,7 +33,10 @@ const onChangeClick = () => {
 }
 
 const onClearClick = () => {
-  selectList.value = {}
+  for (const i in selectList.value) {
+    delete selectList.value[i]
+  }
+  showMode.value = false
 }
 
 const onOkClick = () => {
